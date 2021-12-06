@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+}
+
+.container {
+    border: 2px solid blue;
+
+    /* margins */
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+}

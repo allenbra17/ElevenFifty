@@ -1,0 +1,14 @@
+body {
+    background-color: #d3d3d3;
+}
+
+strong {
+    color: green;
+}
+b {
+    color: blue;
+}
+.wrapper {
+    border: 10px solid red;
+}
+/* I am a CSS Comment */

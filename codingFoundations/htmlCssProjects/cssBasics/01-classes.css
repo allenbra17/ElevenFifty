@@ -1,0 +1,22 @@
+.blue-text {
+    color: lightseagreen;
+}
+
+.orange-text {
+    color: orange;
+}
+
+p {
+    color:red;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+p {
+    color: blue;
+    font-size: 12px;
+}
+/* Descendent combinator */
+ul li {
+    background-color: plum;
+}

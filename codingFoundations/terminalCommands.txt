@@ -1,0 +1,5 @@
+Terminal Command Cheatsheet
+
+ls-Lists contents of this directory
+cd "directory"-changes to "directory"
+cd .. - goes to parent directory
