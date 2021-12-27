@@ -1,0 +1,15 @@
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\Challenges.csproj.AssemblyReference.cache
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\Challenges.AssemblyInfoInputs.cache
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\Challenges.AssemblyInfo.cs
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\bin\Debug\net6.0\Challenges.exe
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\bin\Debug\net6.0\Challenges.deps.json
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\bin\Debug\net6.0\Challenges.runtimeconfig.json
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\bin\Debug\net6.0\Challenges.dll
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\bin\Debug\net6.0\ref\Challenges.dll
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\bin\Debug\net6.0\Challenges.pdb
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\Challenges.dll
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\ref\Challenges.dll
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\Challenges.pdb
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\Challenges\obj\Debug\net6.0\Challenges.genruntimeconfig.cache

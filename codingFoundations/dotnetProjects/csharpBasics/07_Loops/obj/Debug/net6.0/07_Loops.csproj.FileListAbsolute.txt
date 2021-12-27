@@ -1,0 +1,15 @@
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\bin\Debug\net6.0\07_Loops.exe
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\bin\Debug\net6.0\07_Loops.deps.json
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\bin\Debug\net6.0\07_Loops.runtimeconfig.json
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\bin\Debug\net6.0\07_Loops.dll
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\bin\Debug\net6.0\ref\07_Loops.dll
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\bin\Debug\net6.0\07_Loops.pdb
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\07_Loops.csproj.AssemblyReference.cache
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\07_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\07_Loops.AssemblyInfoInputs.cache
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\07_Loops.AssemblyInfo.cs
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\07_Loops.csproj.CoreCompileInputs.cache
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\07_Loops.dll
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\ref\07_Loops.dll
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\07_Loops.pdb
+C:\Users\wickedarb\Documents\elevenFifty\codingFoundations\dotnetProjects\csharpBasics\07_Loops\obj\Debug\net6.0\07_Loops.genruntimeconfig.cache
