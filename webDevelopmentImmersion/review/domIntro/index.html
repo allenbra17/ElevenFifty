@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intro to DOM Manipulation</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+
+    <p id="testParagraph">Sample text</p>
+    <!-- <p id="testTwo">Sample two</p> -->
+
+    <p class="sampleClass">Sample Class</p>
+    <p class="sampleClass">Sample Class</p>
+    <p class="sampleClass">Sample Class</p>
+    <p class="sampleClass">Sample Class</p>
+    <p class="sampleClass">Sample Class</p>
+    
+    <button id="clickThisButton">CLICK ME!</button>
+
+    <label for="nameInput">Enter your name:</label>
+    <input type="text" id="nameInput" placeholder="Your name here">
+
+    
+    <script src="./script.js"></script>
+</body>
+</html>
+
+
+<!-- 
+
+    DOM (Document Object Model)
+        -allows JS to interact with html
+
+    -the DOM is an object-oriented representation of a web page, which can be modified wsing a scripting language like JS
+
+    -when the HTML document is loaded into the browser, a model of our HTML document will be created in what is called a DOM Tree
+
+    -the DOM also provides methods and properties to access and manipulate objects from the DOM tree
+
+    -while working with DOM manipulation, the first step is usually accessing  the element we want to work with. Once the elements have been selected, we can then manipulate that data
+
+    COMMON METHODS FOR ACCESSING A SINGLE ELEMENT
+        -.getElementById()
+        -.querySelector()-- only grabs the first query in the code
+
+    COMMON METHODS FOR SELECTING MULTIPLE ELEMENTS
+        -.querySelectorAll()
+        -.getElementsByClassName()
+        -.getElementsByTagName()
+    
+    COMMON METHODS FOR WORKING WITH HTML CONTENT
+        -.createElement()
+        -innerText/innerHTML/textContent
+
+    COMMON METHODS FOR WORKING WITH TAG ATTRIBUTES
+        -.className / .id -allows to swt the tag name
+        -.setAttribute()
+ -->

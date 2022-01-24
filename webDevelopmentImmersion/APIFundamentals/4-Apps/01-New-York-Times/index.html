@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NYT Video Search</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <h1>NYT Video Search</h1>
+
+    <div class="wrapper">
+        <div class="controls">
+            <!-- Search Form -->
+            <form>
+                <p>
+                    <label for="search">Enter a single search term:</label>
+                    <input type="text" id="search" class="search" required>
+                </p>
+                <p>
+                    <label for="startDate">Enter a start date:</label>
+                    <input type="date" class="startDate" id="startDate" pattern="[0-9]{8}">
+                </p>
+                <p>
+                    <label for="endDate">Enter an end date:</label>
+                    <input type="date" class="endDate" id="endDate" pattern="^\d{8}$">
+                </p>
+                <p>
+                    <button class="submit">Submit Search</button>
+                </p>
+            </form>
+        </div>
+        <!-- Results Section -->
+        <div class="results">
+            <!-- Results Navigation -->
+            <nav>
+                <button class="prev">Previous 10</button>
+                <button class="next">Next 10</button>
+            </nav>
+            <!-- Results from Request -->
+            <section>
+
+            </section>
+        </div>
+    </div>
+    <script src="./scripts.js"></script>
+</body>
+</html>
